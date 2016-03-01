@@ -2,7 +2,7 @@
 # Copyright (c) 2015 Jordan Turley, CSGO Win Big. All Rights Reserved.
 
 function getDB() {
-	$dbHost = 'localhost';
+	$dbHost = 'EasySkins.co.uk';
 	$db     = 'csgowinb_default';
 	$dbUser = 'csgowinb_ztizzle';
 
